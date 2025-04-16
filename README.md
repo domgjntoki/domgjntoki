@@ -1,18 +1,35 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<!--
-**domgjntoki/domgjntoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Fredson 👋
 
-Here are some ideas to get you started:
+I'm a Python backend developer building scalable apps. Currently working on:
+- 🧪 Proton collision detection with ML
+- 🔧 Professor rating app using Go + HTMX + PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Main Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+---
+### 📚 Learning
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+---
+
+### 📊 GitHub Stats
+![Fredson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domgjntoki&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domgjntoki&layout=compact&theme=radical)
+
+---
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 📌 Pinned Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domgjntoki&repo=WhatsappAnimeBot&theme=radical)](https://github.com/domgjntoki/WhatsappAnimeBot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EL-BID&repo=ramales&theme=radical)](https://github.com/EL-BID/ramales)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domgjntoki&repo=proton-collision-detector&theme=radical)](https://github.com/yourusername/proton-collision-detector)
