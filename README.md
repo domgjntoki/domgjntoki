@@ -32,4 +32,4 @@ I'm a Python backend developer building scalable apps. Currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EL-BID&repo=ramales&theme=radical)](https://github.com/EL-BID/ramales)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domgjntoki&repo=proton-collision-detector&theme=radical)](https://github.com/yourusername/proton-collision-detector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domgjntoki&repo=proton-collision-detector&theme=radical)](https://github.com/domgjntoki/proton-collision-detector)
